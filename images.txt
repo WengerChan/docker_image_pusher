@@ -4,4 +4,8 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-ingress-nginx/kube-webhook-certgen:v20221220-controller-v1.5.1-58-g787ea74b6
+kiwigrid/k8s-sidecar:1.27.4
+quay.io/grafana/grafana:11.1.3
+kube-state-metrics/kube-state-metrics:v2.13.0
+quay.io/prometheus-operator/prometheus-operator:v0.75.2
+quay.io/prometheus/node-exporter:v1.8.2
