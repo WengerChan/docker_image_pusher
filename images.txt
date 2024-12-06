@@ -18,5 +18,6 @@
 #quay.io/jetstack/cert-manager-cainjector:v1.16.1
 #quay.io/jetstack/cert-manager-acmesolver:v1.16.1
 #quay.io/jetstack/cert-manager-startupapicheck:v1.16.1
-docker.io/flannel/flannel:v0.26.1
-docker.io/flannel/flannel-cni-plugin:v1.5.1-flannel2
+#docker.io/flannel/flannel:v0.26.1
+#docker.io/flannel/flannel-cni-plugin:v1.5.1-flannel2
+kennethreitz/httpbin:latest
