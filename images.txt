@@ -28,4 +28,7 @@
 #bitnami/postgresql:17.2.0-debian-12-r2
 #bitnami/os-shell:12-debian-12-r33
 #bitnami/postgres-exporter:0.16.0-debian-12-r1
-bitnami/postgres-exporter:0.15.0-debian-12-r44
+#bitnami/postgres-exporter:0.15.0-debian-12-r44
+registry.k8s.io/ingress-nginx/controller:v1.11.3
+registry.k8s.io/ingress-nginx/opentelemetry-1.25.3:v20240813-b933310d
+registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.4
